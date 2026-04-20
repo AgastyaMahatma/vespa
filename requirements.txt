@@ -1,0 +1,6 @@
+ollama
+opencv-python
+piper-tts
+flask
+flask-cors
+requests

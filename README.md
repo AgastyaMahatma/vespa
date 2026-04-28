@@ -1,6 +1,6 @@
 ## 🚀 Quick Start (One-Click)
 
-1. **Download:** Go to the [Latest Release](https://github.com/AgastyaMahatma/vespa/releases/latest) page. Also, download **Ollama** and install the model llava:7b
+1. **Download:** Go to the [Latest Release](https://github.com/AgastyaMahatma/vespa/releases/latest) page. Also, download **Ollama** and install the model ```gemma4:e2b```
 2. **Get Models:** Download the `vespa_tts_models.zip` file.
 3. **Extract:** Unzip the contents into your main project directory.
 4. **Verify Structure:** Ensure your folder layout matches the following:
